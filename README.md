@@ -14,5 +14,5 @@ A simple command-line task manager written in Python. This program allows you to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/to-do-list-manager.git
-   cd to-do-list-manager
+   git clone https://github.com/Zenx007/Task-list.git
+   cd **directory**
